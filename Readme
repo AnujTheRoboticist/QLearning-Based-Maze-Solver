@@ -1,0 +1,4 @@
+QLearning Based Maze Solver (Reinforcement Learning):
+
+Generated random mazes and solved using classical Q learning RL Algorithm (Bellman Equation)
+Developed GUI with GTK editor and PyGTK for interactive visualization. (15*15 Maze)
